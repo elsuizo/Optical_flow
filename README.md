@@ -8,7 +8,7 @@ Horn and Schunck algorithm
 Assumptions:
 Brightness constancy
 
-$$f(x,y,t) = f(x+dx,y+dy,t+dt)$$
+$$ f(x,y,t) = f(x+dx,y+dy,t+dt) $$
 
 if expand the Taylor series of $f(x,y,t)$ we obtain:
 
