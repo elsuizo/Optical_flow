@@ -17,7 +17,7 @@ function images_derivatives(img₁,img₂)
 end
 
 function optical_flowHS(img₁,img₂,u₀,v₀,α::Float64,tol=1e-7)
-    iter = 37 
+    iter = 11
     # initialize u,v
     u = u₀ 
     v = v₀
